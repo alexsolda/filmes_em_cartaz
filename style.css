@@ -1,0 +1,17 @@
+.filme {
+    border: 1px solid #cccccc;
+    padding: 10px;
+    background-color: #eeeeee;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 0.9rem;
+}
+.filme:hover {
+    opacity: 90%;
+    background-color: black;
+    color: white;
+}
+.filme img {
+   width: 100%;
+   margin-bottom: 10px;
+}
